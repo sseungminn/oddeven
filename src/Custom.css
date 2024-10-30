@@ -1,0 +1,67 @@
+.betting-game {
+    width: 300px;
+    margin: auto;
+  }
+  
+  .payout-display {
+    text-align: center;
+    font-size: 1.2em;
+    margin-bottom: 1em;
+  }
+  
+  .button-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5em;
+  }
+  
+  .button-group-a {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    gap: 0.5em;
+  }
+  
+  .button-group-b {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    justify-content: center;
+  }
+  
+  .button-group-c {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    justify-content: center;
+  }
+
+  .numbers-display {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.5em;
+    align-items: center;
+  }
+  
+  .number {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .highlighted {
+    background-color: #ffeb3b;
+  }
+  
+  button.selected {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  button {
+    height: 100%;
+  }
