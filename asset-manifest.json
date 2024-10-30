@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oddeven/static/css/main.200d0634.css",
+    "main.js": "/oddeven/static/js/main.d357cfaa.js",
+    "static/js/453.15eac085.chunk.js": "/oddeven/static/js/453.15eac085.chunk.js",
+    "index.html": "/oddeven/index.html",
+    "main.200d0634.css.map": "/oddeven/static/css/main.200d0634.css.map",
+    "main.d357cfaa.js.map": "/oddeven/static/js/main.d357cfaa.js.map",
+    "453.15eac085.chunk.js.map": "/oddeven/static/js/453.15eac085.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.200d0634.css",
+    "static/js/main.d357cfaa.js"
+  ]
+}
